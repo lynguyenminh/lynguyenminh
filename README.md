@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm Ly Nguyen</h1>
 <h3 align="center"></h3>
+I am currently a 3rd-year student at UIT, my major is Computer Science - Artificial Intelligence. I love working on Computer Vision projects to create exciting products.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynguyenminh&label=Profile%20views&color=0e75b6&style=flat" alt="lynguyenminh" /> </p>
 
