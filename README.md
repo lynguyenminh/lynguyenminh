@@ -47,3 +47,5 @@ I am currently a 3rd-year student at UIT, my major is Computer Science - Artific
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lynguyenminh&show_icons=true&locale=en" alt="lynguyenminh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynguyenminh&" alt="lynguyenminh" /></p>
+
+![snake gif](https://github.com/lynguyenminh/lynguyenminh/blob/output/github-contribution-grid-snake.gif)
