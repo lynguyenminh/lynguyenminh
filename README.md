@@ -4,7 +4,12 @@
 I am currently a 3rd-year student at UIT, my major is Computer Science - Artificial Intelligence. I love working on Computer Vision projects to create exciting products.
 
 
-My CV: [Here](./cv/mycv-ver4.pdf)
+**Please scan this QR to view my CV:** 
+
+![image](https://github.com/lynguyenminh/lynguyenminh/assets/82688630/282d5c24-3335-47b3-9a45-978ef3190b1f)
+
+**Or**
+[Here](./cv/mycv-ver4.pdf)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynguyenminh&label=Profile%20views&color=0e75b6&style=flat" alt="lynguyenminh" /> </p>
  -->
