@@ -6,7 +6,8 @@ I am currently a 3rd-year student at UIT, my major is Computer Science - Artific
 
 **Please scan this QR to view my CV:** 
 
-![image](https://github.com/lynguyenminh/lynguyenminh/assets/82688630/282d5c24-3335-47b3-9a45-978ef3190b1f)
+
+<img src="./QR-CV.png" alt="Image" width="200" height="200"/>
 
 **Or**
 [Here](./cv/mycv-ver4.pdf)
