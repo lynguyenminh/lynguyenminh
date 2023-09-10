@@ -1,12 +1,11 @@
 
-<h1 align="center">Hi there 👋, I'm Ly Nguyen</h1>
+<h1 align="center">Hi there 👋, I'm Nguyen Minh Ly (Kai)</h1>
 <h3 align="center"></h3>
-I am currently a 3rd-year student at UIT, my major is Computer Science - Artificial Intelligence. I love working on Computer Vision projects to create exciting products.
+I am currently a student at University of Information Technology - VNUHCM (UIT), majoring in Artificial Intelligence. I have a passion for creating products that incorporate artificial intelligence.
 
 
+<br>
 
-This is my resume: 
-[Here](./cv/mycv-ver5.pdf)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynguyenminh&label=Profile%20views&color=0e75b6&style=flat" alt="lynguyenminh" /> </p>
  -->
@@ -71,4 +70,4 @@ This is my resume:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynguyenminh&" alt="lynguyenminh" /></p>
 
-![snake gif](https://github.com/lynguyenminh/lynguyenminh/blob/output/github-contribution-grid-snake.gif)
+
