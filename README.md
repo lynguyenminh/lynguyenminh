@@ -16,18 +16,24 @@ I am currently a student at University of Information Technology - VNUHCM (UIT),
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-minh-l%C3%BD-50a9aa223/" target="_blank">
+  <a href="https://www.linkedin.com/in/lynguyenminh/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/lynguyenminh2k2" alt="Facebook">
+  <a href="https://www.facebook.com/nguyenminhly.fb" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
+ 
   <a href="https://github.com/lynguyenminh" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="mailto:20521592@gm.uit.edu.vn" alt="Email">
+  <a href="mailto:nguyenminhly.ai@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+  
+  <a href="https://www.youtube.com/channel/UClRiDnX_OmJAT16VuFOoFZg" alt="YoutubeChannel">
+    <img src="https://img.icons8.com/color/48/youtube-play.png"/>
+  </a>
+ 
 </p>
 
 ## 📫 Skills:
@@ -58,7 +64,9 @@ I am currently a student at University of Information Technology - VNUHCM (UIT),
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &emsp; 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &emsp; 
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="linux" width="40" height="40"/> </a> &emsp;  
-   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> &emsp; 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> &emsp; 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a> &emsp; 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="PostgreSQL" width="40" height="40"/> </a> &emsp; 
 </p>
 
 
